@@ -1,0 +1,56 @@
+body{
+    overflow: visible !important;
+}
+.cyan{
+  background-color:#65d3fa;
+  margin: 0px;
+  padding: 5px;
+  color: white;
+}
+.dark-cyan{
+    width: 100%;
+    background-color:#1eb1d7 !important;
+    margin: 0px !important;
+    padding: 5px;
+    color: white;
+}
+.seagreen{
+  background-color:#145d6d;
+  color: white;
+  width: max-content;
+  padding: 7px;
+  border-radius: 10px;
+  margin:20px;
+}
+.div_speed
+{
+float: left;
+}
+
+.div_speed_img
+{
+width: 200px;
+border-radius: 100px;
+}
+.div_volume
+{
+float: right;
+}
+
+.div_volume_img
+{
+width: 200px;
+border-radius: 100px;
+}
+.purple{
+   background-color: #7660a6;
+   color: white;
+   float: none;
+   font-size: 20px;
+}
+canvas{
+    margin: 30px !important;
+    margin-left: 150px !important;
+    border:2px solid white;
+    border-radius: 10px;
+}
